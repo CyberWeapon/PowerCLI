@@ -1,0 +1,10 @@
+# Temporary files
+*.cvs
+*.list
+*.txt
+
+# Archive files
+*.tar
+*.tar.gz
+*.zip
+
