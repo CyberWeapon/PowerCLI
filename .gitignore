@@ -2,6 +2,7 @@
 *.csv
 *.list
 *.txt
+tmp/
 
 # Archive files
 *.tar
